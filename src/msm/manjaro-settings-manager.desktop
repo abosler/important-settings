@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Important Settings
+
+Comment=Manage important settings
+
+Exec=important-settings
+Icon=preferences-desktop
+Terminal=false
+Type=Application
+Categories=Settings;DesktopSettings;X-LXDE-Settings;X-KDE-Settings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
